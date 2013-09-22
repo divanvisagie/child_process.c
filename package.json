@@ -1,6 +1,6 @@
 {
   "name": "child_process.c",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Dotc child process module",
   "main.c": "lib/child_process.c",
   "scripts": {
